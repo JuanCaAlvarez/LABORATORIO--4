@@ -1,4 +1,5 @@
-"# PRACTICA-DE-CAMPO-4" 
+"# LABORATORIO-4" 
+AREA DEL RECTANGULO
 C#:
 using System;
 class Program { 
